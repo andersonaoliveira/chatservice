@@ -3,7 +3,7 @@ package server
 import (
 	"net"
 
-	"github.com/andersonaoliveira/chatservice/internal/infra/grpc/pb"
+	//"github.com/andersonaoliveira/chatservice/internal/infra/grpc/pb"
 	"github.com/andersonaoliveira/chatservice/internal/infra/grpc/service"
 	"github.com/andersonaoliveira/chatservice/internal/usecase/chatcompletionstream"
 	"google.golang.org/grpc"
