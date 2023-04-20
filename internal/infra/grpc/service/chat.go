@@ -1,7 +1,7 @@
 package service
 
 import (
-	//"github.com/andersonaoliveira/chatservice/internal/infra/grpc/pb"
+	"github.com/andersonaoliveira/chatservice/internal/infra/grpc/pb"
 	"github.com/andersonaoliveira/chatservice/internal/usecase/chatcompletionstream"
 )
 
